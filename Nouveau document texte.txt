@@ -1,0 +1,14 @@
+
+Concernant les évènements on pourrait modifier le Modèle selon les infos suivantes:
+
+si l'evenement est de type répétition, sortie,
+on lui associe un programme musical.
+programme qui liste le nom des partitions jouées. 
+
+-->creer une table "Partition" avec juste un champ "nom" ???? 
+-->afin de remplir le champ "programme musical" dans l'évènement.
+
+
+
+
+
